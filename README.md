@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/DLBMMBM/Linked-In-banner.jpg" />
+![logo](https://i.ibb.co/DLBMMBM/Linked-In-banner.jpg)
 <h1 align="center">Hi 👋, I'm MD. ZAKARIA HOSSAIN</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
